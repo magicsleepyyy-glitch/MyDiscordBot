@@ -1,0 +1,19 @@
+{
+  "prefix": "p!",
+  "modLogChannelName": "mod-logs",
+  "blockedWords": [
+    "spam",
+    "badword1",
+    "badword2"
+  ],
+  "maxMentions": 5,
+  "maxMessages": 5,
+  "messageInterval": 5000,
+  "muteRoleName": "Muted",
+  "ownerOnlyRoles": [
+    "Admin",
+    "Administrator",
+    "Owner",
+    "Moderator"
+  ]
+}
