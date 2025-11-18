@@ -1,0 +1,15 @@
+{
+  "name": "discord-moderation-bot",
+  "version": "1.0.0",
+  "description": "A powerful Discord moderation bot with auto-mod features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "moderation"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
